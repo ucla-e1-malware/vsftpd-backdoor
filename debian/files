@@ -1,0 +1,3 @@
+vsftpd-dbgsym_2.3.4-2_amd64.ddeb debug optional automatic=yes
+vsftpd_2.3.4-2_amd64.buildinfo net extra
+vsftpd_2.3.4-2_amd64.deb net extra
